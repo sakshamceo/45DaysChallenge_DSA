@@ -34,12 +34,12 @@
   <h3 align="center">45 Days Challenge </h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+      <a href="https://www.youtube.com/watch?v=0kzLeuBD6U8">Study Music</a>
     <br />
     <a href="https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/edit#gid=0"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Random</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
