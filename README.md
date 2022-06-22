@@ -31,7 +31,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">45 Days Challenge </h3>
+  <h3 align="center">45 Days Challenge <br> 6 -7 Questions/ Day </h3>
 
   <p align="center">
       <a href="https://www.youtube.com/watch?v=0kzLeuBD6U8">Study Music</a>
